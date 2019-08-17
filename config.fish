@@ -15,7 +15,7 @@ set -gx GOPATH ~/dev/go
 
 # fish greeting
 function fish_greeting
-  fortune | cowsay -f dolphin | lolcat --spread=5.0
+  fortune | cowthink -f dolphin | lolcat --spread=5.0
 end
 
 # when you just feel like turning things around
