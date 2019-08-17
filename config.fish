@@ -1,3 +1,9 @@
+### installed packages (fisher ls) ### 
+#~ edc/bass
+#~ franciscolourenco/done
+#~ matchai/spacefish
+#~ oh-my-fish/plugin-bang-bang
+
 # nvm
 function nvm
   bass source ~/.nvm/nvm.sh --no-use ';' nvm $argv
