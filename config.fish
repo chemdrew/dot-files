@@ -1,7 +1,5 @@
 ### installed packages (fisher ls) ### 
 #~ edc/bass
-#~ franciscolourenco/done
-#~ matchai/spacefish
 #~ oh-my-fish/plugin-bang-bang
 
 # nvm
@@ -43,3 +41,5 @@ function reverse
 ⠄⠄⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣾⣿⣿⡿⠟⠄⠄
 ⠠⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄' | lolcat --spread=1.5 --freq=0.3
 end
+
+starship init fish | source
